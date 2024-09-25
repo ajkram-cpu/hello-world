@@ -34,21 +34,20 @@ Hello_World/
 
 ## Files Used 
 
-- Did you use any datafiles?  
-- List filenames
-- Where you got them 
-- What is contained within the data files?
-- Datafile considerations 
+- Did you use any datafiles? - yes 
+- List filenames - SpongeBob SquarePants Episodes Dataset
+- Where you got them - kaggle
+- What is contained within the data files? - spongebob episode information
 - URL links to files - example here:
 [SpongeBob SquarePants Episodes Dataset] [https://www.kaggle.com/datasets/myticalcat/spongebob-squarepants-episodes-dataset]
 
   
 ## Additional Documentation
 
-No additional documentation at this time.  Here is some **BOLD** text 
+No additional documentation
 
 
 ## Versioning
 
-Discuss any versioning used especially if you are making major changes throughout the process of your code.
+no major changes
 
