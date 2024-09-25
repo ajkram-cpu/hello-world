@@ -13,15 +13,15 @@ I was born and grew up Cedar Rapids, Iowa. I am currently attending the Universi
 
 ## Project Title
 
-*Hello World Sample* 
+Hello World example for assignment
 
 ## Description
 
-Practice using GitHub by creating a sample repository. Make sure you add a description to help others understand your project.
+Practice using GitHub by creating a sample repository for BAIS pro prep
 
 ## How to Run Program 
 
-Explain here how you would run the program and what files need to be available. 
+Explain of how to run a program 
 ```text
 Hello_World/
 └── 
@@ -40,7 +40,7 @@ Hello_World/
 - What is contained within the data files?
 - Datafile considerations 
 - URL links to files - example here:
-[Baby names from 1880 to present](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)
+[SpongeBob SquarePants Episodes Dataset][(https://www.kaggle.com/datasets/myticalcat/spongebob-squarepants-episodes-dataset)]
 
   
 ## Additional Documentation
