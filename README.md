@@ -40,7 +40,7 @@ Hello_World/
 - What is contained within the data files?
 - Datafile considerations 
 - URL links to files - example here:
-[SpongeBob SquarePants Episodes Dataset][(https://www.kaggle.com/datasets/myticalcat/spongebob-squarepants-episodes-dataset)]
+[SpongeBob SquarePants Episodes Dataset] [https://www.kaggle.com/datasets/myticalcat/spongebob-squarepants-episodes-dataset]
 
   
 ## Additional Documentation
